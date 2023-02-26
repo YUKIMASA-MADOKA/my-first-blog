@@ -1,4 +1,6 @@
-http://localhost:8000
 
-adminƒGƒŠƒA‚Íuser/pass
+https://madoka9.pythonanywhere.com
+
+https://github.com/YUKIMASA-MADOKA/my-first-blog
+
 
